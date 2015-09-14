@@ -17,4 +17,4 @@ reflection excercise 6: How might using version control make you more confident 
 	You can always just roll back
 	
 reflection excercise 7: Now that you have your workspace set up, what do you want to try using Git for?
-	Projectss
+	Projectsss
