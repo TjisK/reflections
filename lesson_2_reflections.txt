@@ -1,0 +1,2 @@
+reflection exercise 1: What happens when you initialize a repository? Why do you need to do it?
+	A .git directory is initialized, so that it is a git repository.

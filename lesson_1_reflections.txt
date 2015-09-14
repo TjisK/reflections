@@ -1,0 +1,20 @@
+reflection excercise 1:
+	The viewing of a diff between the two files showed differences between two respective lines.
+
+reflection excercise 2: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	Insight in and access to older versions enables you to use these older versions or compare newer versions to the older ones.
+	
+reflection excercise 3: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	You'll be more likely to have commits which represent a relevant logical change in the code.
+
+reflection excercise 4: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately? 	
+	Files in Git are more likely to be related.
+
+reflection excercise 5: How can you use the commands git log and git diff to view the history of files?
+	identify(log) and comparison(diff)
+
+reflection excercise 6: How might using version control make you more confident to make changes that could break something?
+	You can always just roll back
+	
+reflection excercise 7: Now that you have your workspace set up, what do you want to try using Git for?
+	Projects
