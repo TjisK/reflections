@@ -4,3 +4,5 @@ reflection exercise 2: How is the staging area different from the working direct
 	staging area is a subset of the working directory, The staging area is also more like a function of the repository.
 reflection excercise 3: How can you use the staging area to make sure you have one commit per logical change?
 	Only add the files that are part of the logical change.
+reflection exercise 4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	When creating an experimental feature...To work on a branch just by yourself for example for a bug fix. 
