@@ -5,4 +5,6 @@ reflection exercise 2: How is the staging area different from the working direct
 reflection excercise 3: How can you use the staging area to make sure you have one commit per logical change?
 	Only add the files that are part of the logical change.
 reflection exercise 4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-	When creating an experimental feature...To work on a branch just by yourself for example for a bug fix. 
+	When creating an experimental feature...To work on a branch just by yourself for example for a bug fix.
+reflection exercise 5: How do the diagrams help you visualize the branch structure?	
+	By showing where commits branch off and which new master commits they don't contain.
