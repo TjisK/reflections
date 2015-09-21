@@ -2,4 +2,8 @@ reflection exercise 1: When would you want to use a remote repository rather tha
 	when collaborating
 reflection exercise 2: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	In case you don't want certain commits incorporated in your local repository.
+reflection exercise 3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	fork clone branche
+
+
 	
