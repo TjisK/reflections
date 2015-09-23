@@ -4,6 +4,8 @@ reflection exercise 2: Why might you want to always pull changes manually rather
 	In case you don't want certain commits incorporated in your local repository.
 reflection exercise 3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 	fork clone branche
+reflection exercise 4: What is the benefit of having a copy of the last known state of the remote stored locally?
+	Then git can compare the local state to the remote state.
 
 
 	
